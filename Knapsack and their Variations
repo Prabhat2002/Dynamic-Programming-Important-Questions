@@ -1,0 +1,12 @@
+0/1 Knapsack 
+if (w[i]<W) => (Select and Forward or Not Select and Forward)
+else Forward
+
+Unbounded Knapsack 
+if (w[i]<W) => (Select and Stay at that Position or Not Select and Forward)
+else Forward
+
+Subset Sum 
+Equal Sum Partition
+Minimum Subset Sum Difference
+Count Number of Subset with Given Difference
